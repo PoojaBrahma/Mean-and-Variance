@@ -49,9 +49,20 @@ It shows the distance of a random variable from its mean. It is calcualted as
 
 # Program :
 
+![Screenshot 2024-11-11 090712](https://github.com/user-attachments/assets/be86c860-96d1-41cc-8f9d-01a0aebbda37)
+
+
 
 
 # Output : 
+
+6 8 8 4 5 7 0 0 7 9 4 1 4 6 3 2 7 1 
+
+The Mean arrival rate is 4.556 
+
+The Variance of arrival from feeder is 7.914 
+
+The Standard deviation of arrival from feeder is 2.813 
 
 # Results :
 The mean and variance of arrivals of objects from feeder using probability distribution are calculated.
